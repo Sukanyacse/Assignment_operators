@@ -1,0 +1,15 @@
+#=,+=,-=,*=,/=
+a=10
+print(a)
+b=20
+b+=5
+print(b)
+c=30
+c-=10
+print(c)
+d=40
+d*=2
+print(d)
+e=50
+e/=5
+print(e)
